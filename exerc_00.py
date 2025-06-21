@@ -1,3 +1,5 @@
+#Estrutura condicional aninhada#
+
 nome = str(input('Qual é seu nome? '))
 if nome == 'Rodrigo':
     print('Que nome bonito!')
